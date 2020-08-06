@@ -101,3 +101,5 @@ Date:   Mon Feb 12 22:51:14 2018 +0500
 `git push origin master`  
 Работа с удалёнными репозиториями:  
 `git remote add origin [сервер]`
+
+[< к содержанию](./readme.md)

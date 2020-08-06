@@ -1,6 +1,6 @@
 [< к содержанию](./readme.md)
 
-![hist-logo](./assets/commit_hist-logo.jpg)
+<img src="./assets/commit_hist-logo.jpg" width="300">
 
 ## Просмотр информации по «коммитам»
 
@@ -157,3 +157,5 @@ cf3d9d8 [add] ignore .tmp files
 bc067c8 [add]: caption into README file
 ```
 Для более продуктивного использования данной команды рекомендуем ознакомиться с возможностями утилиты *grep*. На этом мы закончим обзор команды *git log*.
+
+[< к содержанию](./readme.md)
