@@ -1,6 +1,6 @@
 [< к содержанию](./readme.md)
 
-<img src="./assets/add_del_files-logo.jpg" width="400">
+<img src="./assets/add_del_files-logo.jpg" width="450">
 
 ## Добавление, удаление и переименование файлов в репозитории
 
@@ -59,7 +59,7 @@ nothing to commit, working tree clean
 Вначале разберемся со *stage*. Создадим ещё один файл.  
 `> touch main.c`  
 “Отправим” файл *main.c* в *stage*.  
-~> git add main.c~  
+`> git add main.c`  
 Внесем изменения в `README.md`.  
 `> echo "# README" > README.md`  
 Информацию об этом также отправим в *stage*.  

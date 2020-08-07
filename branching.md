@@ -1,6 +1,6 @@
 [< к содержанию](./readme.md)
 
-<img src="./assets/branching-logo.png" width="350">
+<img src="./assets/branching-logo.png" width="450">
 
 ## Ветвление
 

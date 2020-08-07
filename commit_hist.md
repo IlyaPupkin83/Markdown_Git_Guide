@@ -1,6 +1,6 @@
 [< к содержанию](./readme.md)
 
-<img src="./assets/commit_hist-logo.jpg" width="300">
+<img src="./assets/commit_hist-logo.jpg" width="350">
 
 ## Просмотр информации по «коммитам»
 

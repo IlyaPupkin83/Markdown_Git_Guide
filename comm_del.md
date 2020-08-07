@@ -74,7 +74,7 @@ dcf7253 fourth commit
 > cat main.c
 // Some text 2
 ```
-Для просмотра содержимого файла в коммите с id=18411fd воспользуемся правилами работы с *tree-ish* (об этом подробно написано [здесь](https://devpractice.ru/git-for-beginners-part-4-git-arch/))
+Для просмотра содержимого файла в коммите с id=18411fd воспользуемся правилами работы с *tree-ish* (об этом подробно написано [здесь](./archit.md))
 ```bash
 > git show 18411fd:main.c
 // author: Writer
