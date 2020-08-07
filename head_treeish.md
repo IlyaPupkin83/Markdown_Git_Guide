@@ -156,7 +156,6 @@ cf3d9d8f7b283267a085986e85cc8f152cca420d
 <tr>
 <td></td>
 <td></td>
-</tr>
 </table>
 
 Рассмотрим работу с *tree-ish* на примере команды *git show*.

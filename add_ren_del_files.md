@@ -1,6 +1,6 @@
 [< к содержанию](./readme.md)
 
-![add_del_files-logo](./assets/add_del_files-logo.jpg)
+<img src="./assets/add_del_files-logo.jpg" width="400">
 
 ## Добавление, удаление и переименование файлов в репозитории
 
